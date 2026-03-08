@@ -13,7 +13,7 @@
 
 ### 🌐 Connect With Me
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/F9ur96r9r">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -89,18 +89,6 @@
 - MySQL
 - PDO
 - CRUD Operations
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=F9ur96r9rE&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F9ur96r9r&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
